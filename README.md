@@ -1,6 +1,6 @@
 # PR-FinderV2.3
 
-## Comandos Actuales:
+## Comandos Actuales :
     start - 🏘 Mensaje Inicial e Informacion.
     pr_find - 🛰 Busca en las coordenadas indicadas o estandar.
     pr_decrypt - 🔐 Obtiene el IP y Puerto de un Proxy.
@@ -9,3 +9,6 @@
     add_user - ➕ Autoriza Usuario. 👑
     kick_user - ➖ Expulsa Usuario. 👑
     getdb - 📋 Obtén la Base de Datos. 👑
+
+## Instrucciones para Crear tu Propio Bot:
+Pulsa el Botón de Desplegar e introduce tu Usuario y el Token del bot obtenido en Bot Father...
