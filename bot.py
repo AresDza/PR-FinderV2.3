@@ -11,8 +11,6 @@ import datetime
 import time_calc
 import PRFinderV3
 
-dev = 1
-
 def iniciado():
     try:bot.sendMessage(chat_id=user_id,text='BOT Reiniciado!!🔋 ')
     except:print("Ejecutando el bot @" + bot.username)
@@ -195,10 +193,6 @@ def filtrar_text(update, context):
 # TOKEN
 if __name__ == '__main__':
     if dev == 1 :
-        administrador = 'AresDza'
-        bot_token = '5225993117:AAHjaij0FijHKLHlvCIwPVEdKrQlICApRvo'
-        user_id = 1307228755
-    else :
         administrador = os.environ.get('administrador')
         bot_token = os.environ.get('bot_token')
         user_id = os.environ.get('user_id')
