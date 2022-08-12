@@ -41,4 +41,4 @@
 <b>3ro : </b>Debajo de Free Dynos, hay una que pone worker python3 main.py, tocamos en el Lápiz de Editar y Activamos el Dyno, pulsamos en confirmar y ya nuestro Bot estará Funcionando ....
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AresDza/RTFreeV7.3-PRO) <b>↣ Despliega directo en Heroku</b>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AresDza/PR-FinderV2.3)
