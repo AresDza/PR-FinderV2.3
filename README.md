@@ -1,6 +1,6 @@
 # PR-FinderV2.3
 
-Comandos Actuales:
+## Comandos Actuales:
     start - 🏘 Mensaje Inicial e Informacion.
     pr_find - 🛰 Busca en las coordenadas indicadas o estandar.
     pr_decrypt - 🔐 Obtiene el IP y Puerto de un Proxy.
